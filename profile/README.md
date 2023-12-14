@@ -1,12 +1,4 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+The science and policy of natural assets and environmental markets are evolving rapidly and require nimble institutions to provide the innovations necessary to link economic and environmental interests. In 2012, the non-profit SIG-NAL was created to meet this need. SIG-NAL broadens the reach of the technical capacity and professional networks of Spatial Informatics Group (SIG) to create a more flexible entity with increased effectiveness in a dynamic economic and political context working for the public benefit.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
