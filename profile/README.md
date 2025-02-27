@@ -1,5 +1,7 @@
+<h2 align="center">
 ![Banner](https://github.com/SIG-NAL-DS/.github/blob/main/profile/signal_long.png)
 
+</h2>
 
 Started in 2012 as a 501 (c) 3 non-profit, SIG-NAL advances science, policy, and practice for climate-resilient urban and natural landscapes. We work with federal, state, tribal, and municipal partners to develop and implement climate-informed conservation strategies that benefit vulnerable communities and biodiversity. From wildfire resilience planning to green stormwater infrastructure, we create adaptive strategies for a changing climate.
 
@@ -30,7 +32,7 @@ Our interdisciplinary team at SIG-NAL has deep-seated expertise in natural resou
 # **Affiliated Programs**
 
 <h2 align="center">
-<a href="https://www.planscape.org/"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/pslogo.png" alt="Planscape" style="width: 90px; margin-right: 20px;"/></a>
+<a href="https://www.planscape.org/"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/pslogo.png" alt="Planscape" style="width: 300x; margin-right: 20px;"/></a>
 <a href="https://experience.arcgis.com/experience/e850109f349e4539b1dd2cb3b3e62b5c/?draft=true"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/rwmp-logo-final.png" alt="RWMP" style="width: 125px;" /></a>
 <img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/silva.png" alt="romero61.github.io" style="width: 300px; margin-right: 20px;"/></a>
 
