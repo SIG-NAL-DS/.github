@@ -1,5 +1,5 @@
 <h2 align="center">
-![Banner](https://github.com/SIG-NAL-DS/.github/blob/main/profile/signal_long.png)
+<a href="https://www.sig-nal.org/"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/signal_long.png" alt="romero61.github.io" style="width: 300px; margin-right: 20px;"/></a>
 
 </h2>
 
