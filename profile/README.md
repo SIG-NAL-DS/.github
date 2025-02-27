@@ -28,6 +28,7 @@ Started in 2012 as a 501 (c) 3 non-profit, SIG-NAL advances science, policy, and
 # **WHO WE ARE**
 
 Our interdisciplinary team at SIG-NAL has deep-seated expertise in natural resource policy and planning, collaboration and facilitation, urban and landscape ecology, and data science. Through data-driven, community-centered approaches, we develop climate adaptation solutions that benefit both people and nature.
+<h2 align="center"><a href="https://www.sig-nal.org/team"><strong>TEAM</strong></a></h2>
 
 # **Affiliated Programs**
 
