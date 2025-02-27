@@ -6,13 +6,21 @@ Started in 2012 as a 501 (c) 3 non-profit, SIG-NAL advances science, policy, and
 # **What We Do**
 
 🌍🌱 Ecosystem Science
+
 🗺️📊 Geographic Information Systems (GIS) and Data Science
+
 🌿🔧 Habitat Restoration
+
 📈🔄 Project Monitoring for Adaptive Management
+
 🤝🏗️ Facilitation and Coalition Building
+
 🔥🚒 Wildfire Risk Mitigation
+
 🌧️💧 Green Storm Water Infrastructure
+
 📜⚖️ Resource Policy and Framework Design
+
 🧪📢 Science Communication
 
 # **WHO WE ARE**
@@ -23,7 +31,7 @@ Our interdisciplinary team at SIG-NAL has deep-seated expertise in natural resou
 
 <h2 align="center">
 <a href="https://www.planscape.org/"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/pslogo.png" alt="Planscape" style="width: 90px; margin-right: 20px;"/></a>
-<a href="https://experience.arcgis.com/experience/e850109f349e4539b1dd2cb3b3e62b5c/?draft=true"><img src="https://raw.githubusercontent.com/romero61/romero61.github.io/main/img/rwmp-logo-final.png" alt="HF Logo" style="width: 125px;" /></a>
+<a href="https://experience.arcgis.com/experience/e850109f349e4539b1dd2cb3b3e62b5c/?draft=true"><img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/rwmp-logo-final.png" alt="RWMP" style="width: 125px;" /></a>
 <img src="https://github.com/SIG-NAL-DS/.github/blob/main/profile/silva.png" alt="romero61.github.io" style="width: 300px; margin-right: 20px;"/></a>
 
   
