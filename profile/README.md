@@ -1,5 +1,2 @@
-![Banner](https://github.com/signal-rwmp/.github/blob/main/profile/readmebanner.png)
 
-The science and policy of natural assets and environmental markets are evolving rapidly and require nimble institutions to provide the innovations necessary to link economic and environmental interests. In 2012, the non-profit SIG-NAL was created to meet this need. SIG-NAL broadens the reach of the technical capacity and professional networks of Spatial Informatics Group (SIG) to create a more flexible entity with increased effectiveness in a dynamic economic and political context working for the public benefit.
-
-![desc](https://github.com/signal-rwmp/.github/blob/main/profile/desc.png)
+  Started in 2012 as a 501 (c) 3 non-profit, SIG-NAL advances science, policy, and practice for climate-resilient urban and natural landscapes. We work with federal, state, tribal, and municipal partners to develop and implement climate-informed conservation strategies that benefit vulnerable communities and biodiversity. From wildfire resilience planning to green stormwater infrastructure, we create adaptive strategies for a changing climate.
